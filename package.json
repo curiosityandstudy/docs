@@ -1,0 +1,16 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:curiosityandstudy/docs.git",
+  "author": "Shenwei Min <1152764252@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  }
+}
