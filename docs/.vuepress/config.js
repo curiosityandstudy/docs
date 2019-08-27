@@ -14,9 +14,8 @@ module.exports = {
         ],
 
         sidebar: {
-            '/other/': [
-                "/other/tryother.md",
-                ""
+            '/': [
+                "/other/tryother.md"
             ]
         }
 
