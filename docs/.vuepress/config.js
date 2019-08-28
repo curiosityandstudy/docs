@@ -5,7 +5,7 @@ module.exports = {
     locales: {
         '/': {
             lang: 'zh-CN',
-            title: '掌中云测试文档',
+            title: 'msw测试文档',
             description: ''
         }
     },
